@@ -59,4 +59,4 @@
 ## Viewing History
 
 1. `git log --oneline` - Displays the commit history in one line per commit format.
-2. `git history` - Lists the shell command history, including the Git commands used.
+2. `git history` - Lists the shell command history, including the Git commands used!
